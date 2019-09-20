@@ -1,0 +1,46 @@
+
+            a{
+                text-decoration: none;
+            }
+            a:hover{
+                color: crimson;
+                text-decoration-line: underline;
+                text-decoration-style: dotted;
+            }
+            body{
+                font-family: Georgia;
+            }
+            button{
+                background-color: transparent;
+                border: none;
+                border-radius: 12px;
+                font-family: 'Mansalva', cursive;
+                font-size: 16px;
+                padding: 10px 22px;
+            }
+            button:hover{
+                background-color: lightgray;
+            }
+            #graffiti{
+                font-size: 20px;
+                font-family: 'Mansalva', cursive;
+            }
+            hr{
+                width: 90%;
+            }
+            p{
+              text-align: center;  
+            }
+            #intro{
+                text-align: justify;
+            }
+            #learn_more{ 
+                text-align: center;
+            }
+            #ready{
+                font-family: 'Saira Stencil One', cursive;
+            }
+            #coming_soon{
+                text-align: center;
+                padding-bottom: 10px;
+            }
